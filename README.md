@@ -130,11 +130,5 @@ This project is **3D-ready** and uses **Three.js** to enhance UI experience.
 
 ---
 
-## 📜 License.
-
-This project is licensed under the **MIT License**.
-
----
-
 ⭐ **If you like this project, don’t forget to STAR the repository!** ⭐
 
