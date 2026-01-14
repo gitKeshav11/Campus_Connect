@@ -128,7 +128,7 @@ This project is **3D-ready** and uses **Three.js** to enhance UI experience.
 🔗 GitHub: https://github.com/gitKeshav11  
 💼 LinkedIn: https://www.linkedin.com/in/keshavupadhyayje/
 
-------------------------------------------
+------------------------------------------------
 
 ⭐ **If you like this project, don’t forget to STAR the repository!** ⭐
 
